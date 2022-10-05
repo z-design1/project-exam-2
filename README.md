@@ -4,7 +4,7 @@ Hotels and airbnbs booking site
 
 
 # Description
----
+
 A website showing all the hotels and airbnbs in Bergen with the details of them and a easy way to book online & contact them.
 - Home page
 - List of places
@@ -16,7 +16,7 @@ A website showing all the hotels and airbnbs in Bergen with the details of them 
 
 
 # Built with
----
+
 - JavaScript
 - React.js
 - CSS
@@ -63,7 +63,7 @@ yarn build
 
 
 ## ✨ Contribution
----
+
 No contribution
 
----
+
