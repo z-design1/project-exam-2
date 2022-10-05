@@ -1,3 +1,7 @@
+# Project exam 2 / Hotelize
+![image](https://user-images.githubusercontent.com/74776389/194109336-595d1104-fecf-46a9-927b-7b381f0aaad2.png)
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
